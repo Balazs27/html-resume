@@ -19,4 +19,4 @@ The project originally started as a beginner exercise while learning basic web d
 ## Author
 
 **Balázs Illovai**  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Balazs27)
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/balazs-illovai-448631247/) | [GitHub](https://github.com/Balazs27)
